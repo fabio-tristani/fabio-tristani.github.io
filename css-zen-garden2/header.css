@@ -1,0 +1,39 @@
+h1 {
+    font-size: 5em;
+    text-align: center;
+    color: blanchedalmond;
+}
+h1 {
+
+    position: relative;
+    right:-5em;
+
+}
+
+h1 {
+    border-style: unset;
+    border-radius: 50%;
+    width: 500px;
+    height: 200px;
+    padding:200px;
+
+
+}
+
+h1  {
+    background-image:url("decor-2490167_1280.png");
+    background-color: #8DCAF5;
+    box-sizing: content-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+    position: relative;
+    text-align: center;
+    font-size: 100px;
+
+}
